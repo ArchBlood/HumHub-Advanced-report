@@ -1,0 +1,12 @@
+{
+    "id": "report",
+    "name": "Report",
+    "description": "Allow users to report posts, comments and profiles.",
+    "keywords": [
+    ],
+    "version": "0.1",
+    "humhub": {
+        "minVersion": "1.2"
+    },
+    "screenshots": ["assets/screen1.jpg"]
+}
